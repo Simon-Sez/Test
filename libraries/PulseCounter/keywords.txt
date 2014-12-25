@@ -1,0 +1,4 @@
+PulseCounter 				KEYWORD1
+countOnePulse 				KEYWORD2
+measurePulseFrequence		KEYWORD2
+
